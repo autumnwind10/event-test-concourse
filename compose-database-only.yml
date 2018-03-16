@@ -19,3 +19,4 @@ redis:
   image: redis:3.0
   ports:
    - 6379:6379
+
